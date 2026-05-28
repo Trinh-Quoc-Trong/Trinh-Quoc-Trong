@@ -9,5 +9,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Trinh-Quoc-Trong&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trinh-Quoc-Trong&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Trinh-Quoc-Trong&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
